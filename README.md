@@ -28,15 +28,31 @@ Data Cleaning & Transformation:
 Filtering out NULL values for meaningful analysis.
 Standardizing column data types (FLOAT64, STRING, INT64).
 
-Data Aggregation & Joins:
+**2. 📊 COVID-19 Visualization Dashboard**
 
-Combining CovidDeaths and CovidVaccinations datasets on location and date fields.
-Calculating Total Death Rate as (Total Deaths / Population) * 100.
+**Overview**
 
-Table Creation for Visualization:
-Creating visual_table in BigQuery to store aggregated results for dashboarding.
+This Looker Studio dashboard provides an interactive visualization of COVID-19 data, including total cases, vaccinations, and death rates across different locations. The dashboard enables users to explore insights through filters and visual analytics.
 
-Adding key metrics such as:
-new_cases, total_cases
-new_vaccinations, total_vaccinations
+**🔹Features**
+
+✅ Global & Country-Level Analysis with map visualizations
+✅ Key Metrics Display (Total Cases, Vaccinations, Death Rate, etc.)
+✅ Interactive Filters (Continent, Country, Time Range)
+✅ Trend Analysis (New Cases vs. New Vaccinations Over Time)
+
+**🛠️ How to Use**
+
+1️⃣ Click on the Live Report Link above.
+2️⃣ Use filters to view COVID-19 trends by location and date range.
+3️⃣ Analyze key statistics and compare regions visually.
+
+**📂 Data Source**
+
+The data used in this dashboard is sourced from BigQuery & Google Cloud Platform (GCP).
+
+**📸 Screenshot**
+
+<img width="527" alt="image" src="https://github.com/user-attachments/assets/ebb4b1c2-a416-4023-8839-c18db0e18fc3" />
+
 
