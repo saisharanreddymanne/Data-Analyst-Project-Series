@@ -56,6 +56,8 @@ The data used in this dashboard is sourced from BigQuery & Google Cloud Platform
 <img width="527" alt="image" src="https://github.com/user-attachments/assets/ebb4b1c2-a416-4023-8839-c18db0e18fc3" />
 
 
+
+
 **3. Nashville Housing Data Cleaning with BigQuery**
 
 **Project Overview**
