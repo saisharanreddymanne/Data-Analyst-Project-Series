@@ -56,3 +56,33 @@ The data used in this dashboard is sourced from BigQuery & Google Cloud Platform
 <img width="527" alt="image" src="https://github.com/user-attachments/assets/ebb4b1c2-a416-4023-8839-c18db0e18fc3" />
 
 
+**3. Nashville Housing Data Cleaning with BigQuery**
+
+**Project Overview**
+
+This project focuses on cleaning and transforming the Nashville Housing Dataset using Google BigQuery. It includes property details, sale prices, owner information, and other relevant attributes.
+
+**Data Cleaning Steps**
+
+
+The data underwent several cleaning and transformation processes, including standardizing unique identifiers, formatting sale prices, splitting address fields, and converting certain values to standardized formats.
+
+**New Cleaned Table**
+
+A new table was created in BigQuery to store the cleaned dataset.
+
+**Exporting the Cleaned Data**
+
+The cleaned dataset was downloaded from BigQuery and is ready for further use or sharing.
+
+**Screenshots of Dataset before cleaning:**
+
+<img width="943" alt="image" src="https://github.com/user-attachments/assets/07bd4ed5-0d67-4979-86ed-8028e5aa5707" />
+
+**Screenshot of Cleaned Dataset:**
+
+<img width="926" alt="image" src="https://github.com/user-attachments/assets/984d8600-56de-4c1c-89b0-545ccb45e230" />
+
+
+
+
