@@ -81,10 +81,59 @@ The cleaned dataset was downloaded from BigQuery and is ready for further use or
 
 <img width="943" alt="image" src="https://github.com/user-attachments/assets/07bd4ed5-0d67-4979-86ed-8028e5aa5707" />
 
+
 **Screenshot of Cleaned Dataset:**
 
 <img width="926" alt="image" src="https://github.com/user-attachments/assets/984d8600-56de-4c1c-89b0-545ccb45e230" />
 
 
+
+
+
+**4. 🎬 Movie Data Correlation Analysis**
+
+
+**📌 Project Overview**
+
+
+This project explores correlations in a Movies Dataset using Python libraries. The goal is to analyze relationships between different numerical features like budget, gross revenue, and ratings using statistical and visualization techniques.
+
+
+**🛠️ Tools & Libraries**
+
+
+Pandas – Data manipulation
+
+NumPy – Numerical computations
+
+Seaborn – Statistical visualizations
+
+Matplotlib – Data plotting
+
+
+**📊 Key Analysis**
+
+
+Data Cleaning: Handling NaN values & type conversions
+
+Data Visualization: Scatter plots, heatmaps, and regression plots
+
+Correlation Analysis: Pearson correlation between numerical columns
+
+Sorting & Filtering: Identifying strong correlations
+
+
+**📈 Findings**
+
+
+Budget vs. Gross Revenue: Strong positive correlation
+
+Other insights: Dependencies between ratings, votes, and revenue
+
+
+
+**Correlation b/w Budget VS Gross**
+
+<img width="197" alt="image" src="https://github.com/user-attachments/assets/6b4b96c0-dc33-4ea8-b90f-dba5a8c56459" />
 
 
