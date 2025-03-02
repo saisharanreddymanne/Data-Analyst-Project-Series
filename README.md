@@ -47,9 +47,6 @@ This Looker Studio dashboard provides an interactive visualization of COVID-19 d
 2️⃣ Use filters to view COVID-19 trends by location and date range.
 3️⃣ Analyze key statistics and compare regions visually.
 
-**📂 Data Source**
-
-The data used in this dashboard is sourced from BigQuery & Google Cloud Platform (GCP).
 
 **📸 Screenshot**
 
